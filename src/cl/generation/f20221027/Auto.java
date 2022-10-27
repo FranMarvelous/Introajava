@@ -13,7 +13,7 @@ public class Auto {
 	// Generar constructor -> boton derecho>source>generate constructor.
 	// nos permite instanciar el objeto
 	// nos permite inicializar los atributos(variables)
-	public Auto() { // constructor vacío
+	public Auto() { // constructor vacío, lo creamos solo para asignar espacio (inicializar) y agregar datos en el futuro.
 		super();
 	}
 
