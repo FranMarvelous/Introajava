@@ -88,13 +88,9 @@ public class AreaPerimetro {
 			resultadoPeri = (baseRectangulo*2 + alturaRectangulo*2);
 			System.out.println("El perímetro del rectángulo es: "+resultadoPeri);
 			break;
-		case 3:// MULTIPLICAR
+		case 3://Circunferencia
 			
-			break;
-		case 4:// DIVIDIR
-	
-				
-		
+			
 			break;
 
 		default:

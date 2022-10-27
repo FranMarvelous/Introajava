@@ -19,7 +19,9 @@ public class UsoObjeto {
 		
 		//Instancia con constructor con parametros (sin valores pero con las cajitas esperando sus valor)
 		Auto car = new Auto("Nissan","Negro","Qashqai",1.6f,10.0f,240f);
-		System.out.println(car.getModelo());
+		System.out.println(car.getModelo());//pedir atributo en particular
+		
+	
 	}
 
 }
